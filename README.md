@@ -5,3 +5,4 @@
 <p align="center">
 Hi, I'm James Bower. I work as a security engineer but am enjoying learning about machine learning and how to apply it to cyber security.
 </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesbower)](https://github.com/anuraghazra/github-readme-stats)
