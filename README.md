@@ -5,5 +5,5 @@
 <br>
 
 <p align="center">
-Hi, I'm James Bower. I work as a machine learning engineer and enjoy learning more about machine learning and how to apply it to cyber security.
+Hi, I'm James Bower. I work as a machine learning engineer and enjoy learning more about machine learning and how to apply it to security.
 </p>
