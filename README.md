@@ -5,5 +5,5 @@
 <br>
 
 <p align="center">
-Hi, I'm James Bower. I apply AI/ML/LLMs to cybersecurity: research in the open, tools you can run.
+I'm building DetectTrace, an AI security company with zero employees, in the open. The context layer your alerts need. detect-forge is the free CLI underneath it.
 </p>
