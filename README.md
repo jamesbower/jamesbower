@@ -1,3 +1,4 @@
+[<img src="https://img.shields.io/badge/newsletter-%23C97852.svg?&style=for-the-badge&logo=substack&logoColor=white" />](https://james-bower.kit.com/quant_newsletter)
 [<img src="https://img.shields.io/badge/blog-%2312100E.svg?&style=for-the-badge&logo=blog&logoColor=white" />](https://www.jamesbower.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jamesbower/) 
 [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee" />](https://twitter.com/jamesbower) [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/c/jamesbower1)
